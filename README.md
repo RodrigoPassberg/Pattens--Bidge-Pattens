@@ -81,14 +81,3 @@ Isso significa que você pode:
 *   Melhorar a extensibilidade e a manutenibilidade do sistema, especialmente quando múltiplas dimensões de variação existem (como diferentes tipos de controles *e* diferentes tipos de dispositivos).
 
 Em essência, o Bridge promove a composição sobre a herança para conectar as duas hierarquias, resultando em um design mais flexível e modular.
-
-
-
-## 6. Referências
-
-*   Este exemplo é inspirado na explicação do padrão Bridge encontrada em [Refactoring.Guru](https://refactoring.guru/pt-br/design-patterns/bridge).
-
----
-
-*Este README foi gerado por Manus.*
-
